@@ -80,4 +80,8 @@
 
 ## RabbitMQ
 
-- Aula 4:
+- Aula 4: RabbitMQUI
+    - Instalando o RabbitMQUI, criando o arquivo docker-compose.yaml
+    - Navegando pelo painel do RabbitMQ
+    - Criando Queue
+    - Binding com um Exchange
